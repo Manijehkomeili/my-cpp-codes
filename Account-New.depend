@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630156610 source:c:\users\mojtaba\desktop\account-new\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
